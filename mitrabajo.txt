@@ -1,2 +1,4 @@
 este es mi primer trabajo git
 esta es la actualizacion
+Nuestro fichero es el bueno, no nos gustan los
+conflictos
