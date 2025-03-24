@@ -1,2 +1,3 @@
 este es mi primer trabajo git
 esta es la actualizacion
+Estamos creando un conflicto
